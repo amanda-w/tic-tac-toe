@@ -1,4 +1,3 @@
-// import Game component
 import Game from './components/Game'
 
 function App() {

@@ -1,2 +1,2 @@
-import React from 'react';
-import Board from './Board';
+// import React from 'react';
+// import Board from './Board';
